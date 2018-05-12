@@ -1,0 +1,42 @@
+_repo: Little-Journeys-to-the-Homes-of-the-Great---Volume-04--13-Little-Journeys-to-the-Homes-of-Emi__18118
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Ali Baba
+    - Elbertus, Fra
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2006-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scheffer, Ary, 1795-1858'
+- !lcsh 'Van Dyck, Anthony, Sir, 1599-1641'
+- !lcc 'ND'
+- !lcsh 'Michelangelo Buonarroti, 1475-1564'
+- !lcsh 'Fortuny, Mariano, 1838-1874'
+- !lcsh 'Titian, approximately 1488-1576'
+- !lcsh 'Doré, Gustave, 1832-1883'
+- !lcsh 'Landseer, Edwin Henry, Sir, 1802-1873'
+- !lcsh 'Rembrandt Harmenszoon van Rijn, 1606-1669'
+- !lcsh 'Meissonier, Jean Louis Ernest, 1815-1891'
+- !lcsh 'Reynolds, Joshua, Sir, 1723-1792'
+- !lcsh 'Rubens, Peter Paul, 1577-1640'
+- !lcsh 'Millet, Jean François, 1814-1875'
+title: "Little Journeys to the Homes of the Great - Volume 04\r\nLittle Journeys to\
+  \ the Homes of Eminent Painters"
+url: http://www.gutenberg.org/ebooks/18118
